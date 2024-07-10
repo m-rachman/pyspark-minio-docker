@@ -1,4 +1,4 @@
-FROM jupyter/all-spark-notebook:python-3.8
+FROM jupyter/all-spark-notebook:python-3.11
 
 USER root 
 
